@@ -1,0 +1,3 @@
+case 2:
+            printf("artificial intelligence.\n");
+            break;
